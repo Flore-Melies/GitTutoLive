@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Enola-duran : MonoBehaviour
+public class Enoladuran : MonoBehaviour
 {
     // Start is called before the first frame update
     void Start()
